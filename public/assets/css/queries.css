@@ -1,0 +1,1607 @@
+@media (max-width: 1412px) {
+    .aid-br {
+        display: none;
+    }
+}
+
+@media (max-width: 1358px) {
+
+    #aiding-section,
+    #how-it-works,
+    #partner,
+    #features-section,
+    #need-help-section,
+    footer {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    #de-form,
+    #what-verigo,
+    #how-to-p-verigo {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .become-a-de-col h2 {
+        width: 90%;
+    }
+
+}
+
+
+
+@media (max-width: 1229px) {
+
+    #aiding-section,
+    #how-it-works,
+    #partner,
+    #features-section,
+    #need-help-section,
+    footer {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .login-div {
+        width: 40%;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+
+    .lam-bg {
+        width: 20%;
+        left: 3px;
+        top: -89px;
+    }
+
+    .git-bg {
+        right: -4px;
+        top: -21px;
+        width: 15%;
+    }
+
+    #de-form,
+    #what-verigo,
+    #how-to-p-verigo {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .h2p-bg-img {
+        width: 18%;
+        top: 47px;
+    }
+
+    #track--sec {
+        padding-left: 280px;
+        padding-right: 280px;
+        padding-bottom: 120px;
+    }
+
+}
+
+@media (max-width: 1199px) {
+
+    #aiding-section,
+    #how-it-works,
+    #partner,
+    #features-section,
+    #need-help-section,
+    footer {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    img.phone-aid {
+        width: 55%;
+    }
+
+    .col-lg-6.aid-col-pad {
+        padding-top: 3.5%;
+    }
+
+    #about-us-sec {
+        padding-left: 110px;
+        padding-right: 110px;
+        padding-bottom: 80px;
+    }
+
+    #mission {
+        padding-top: 60px;
+        padding-left: 130px;
+        padding-right: 130px;
+    }
+
+    img.bus-img {
+        margin-top: 30px;
+    }
+
+    .team-img-pad {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .team-img-grid {
+        padding-right: 80px;
+        padding-left: 80px;
+    }
+
+    .ww-div {
+        margin-top: 45px;
+        margin-left: -40px;
+    }
+
+    .wi-bg-img {
+        position: absolute;
+        width: 14%;
+        right: -4px;
+        top: 41px;
+    }
+
+    .de-form-div, .otp-div {
+        padding-left: 42px;
+        padding-right: 42px;
+        width: 40% !important;
+        margin-top: 25px;
+    }
+
+    .get-started-btn,
+    .get-started-btn:hover {
+        width: 23%;
+    }
+}
+
+@media (max-width: 1080px) {
+
+    #aiding-section,
+    #how-it-works,
+    #partner,
+    #features-section,
+    #need-help-section,
+    footer {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .need-h-h2 {
+        width: 70%;
+    }
+
+    #about-us-sec {
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+
+    #mission {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .about-us-img {
+        left: -133px;
+    }
+
+    .team-img-grid {
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .vision-mission-img {
+        top: 75px;
+        width: 22%;
+        right: -13px;
+    }
+
+    .login-div {
+        width: 47%;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .lam-bg {
+        width: 21%;
+        left: 4px;
+        top: -93px;
+    }
+
+    .git-bg {
+        right: -5px;
+        top: -23px;
+        width: 18%;
+    }
+
+    .cont-us-bg {
+        width: 25%;
+        left: -22px;
+    }
+
+    #de-form,
+    #what-verigo,
+    #how-to-p-verigo {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    #faq-de {
+        padding-left: 170px;
+        padding-right: 170px;
+    }
+
+    .h2p-card {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .purple-bg-div {
+        border-radius: 50px;
+        padding: 61px 53px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        -ms-border-radius: 50px;
+        -o-border-radius: 50px;
+    }
+
+    img.partner-faq-bg {
+        bottom: -24px;
+        width: 16%;
+    }
+
+    .wi-col-p {
+        width: 100%;
+    }
+
+    #track--sec {
+        padding-left: 220px;
+        padding-right: 220px;
+        padding-bottom: 120px;
+    }
+}
+
+@media (max-width: 991px) {
+
+
+    .nav-sec {
+        height: 60px;
+    }
+
+    .active-nav:after {
+        top: 54px;
+        width: 6px;
+        height: 6px;
+    }
+
+    section.nav-shadow {
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.21);
+    }
+
+    a.nav-link {
+        color: #414141;
+    }
+
+    nav {
+        z-index: 1;
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    nav.sticky {
+        background: #FCFCFC;
+        box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.21);
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        color: #fff !important;
+    }
+
+    nav .navbar-brand {
+        position: relative;
+    }
+
+    nav ul {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    nav ul li {
+        position: relative;
+    }
+
+    nav ul li a {
+        color: #fff;
+    }
+
+    nav ul li a:hover {
+        color: #fff;
+    }
+
+    .navbar {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 20px;
+    }
+
+    .desktop-head-nav {
+        display: none;
+    }
+
+    .mobile-nav {
+        display: block;
+    }
+
+    .div-mob {
+        background: #FCFCFC;
+        box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.21);
+        padding: 15px 30px;
+        position: relative;
+        z-index: 50;
+    }
+
+    .toggle-nav {
+        display: block;
+    }
+
+    nav ul {
+        top: -500px;
+        position: relative;
+        padding-left: 0;
+        margin-bottom: 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: #f1f1f1;
+        width: 100%;
+        display: none;
+    }
+
+    .nav-link {
+        margin-right: 0;
+    }
+
+    .navbar {
+        padding: 0;
+    }
+
+    nav ul li {
+        color: #414141;
+        width: 100%;
+        padding-top: 15px;
+        text-align: center;
+
+    }
+
+    nav ul li:last-child {
+        padding-bottom: 10px;
+    }
+
+    ul.active-2 {
+        display: block !important;
+        animation: slide 0.5s forwards;
+    }
+
+    #aiding-section,
+    #how-it-works,
+    #partner,
+    #features-section,
+    #need-help-section,
+    footer {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .col-lg-6.aid-col-pad {
+        padding-top: 6.5%;
+    }
+
+    .aid-phone-center {
+        padding-top: 70px;
+        text-align: left;
+    }
+
+    #aiding-section {
+        background-image: url(../img/aid-bg-resp.png);
+        background-size: cover;
+        padding-bottom: 100px;
+    }
+
+    #how-it-works {
+        padding-left: 250px;
+        padding-right: 250px;
+        padding-bottom: 80px;
+    }
+
+    #features-section {
+        padding-left: 230px;
+        padding-right: 230px;
+    }
+
+    .card-div:nth-child(1),
+    .card-div:nth-child(2),
+    .features-div:nth-child(1),
+    .features-div:nth-child(2) {
+        padding-bottom: 7%;
+    }
+
+    .partner-icon {
+        width: 80%;
+        margin-top: 80px;
+    }
+
+    .features-p {
+        font-size: 1.35rem;
+    }
+
+    img.appstore-btn-footer,
+    img.playstore-btn-footer {
+        width: 50%;
+    }
+
+    .app-stores-btn-group {
+        padding-top: 10px;
+    }
+
+    img.verigo-ico-footer {
+        margin-top: 0;
+    }
+
+    #about-us-sec {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    #mission {
+        padding-left: 240px;
+        padding-right: 240px;
+    }
+
+    img.bus-img {
+        width: 85%;
+    }
+
+    #the-team {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    .vision-card,
+    .mission-card {
+        padding-right: 0;
+        padding-top: 50px;
+    }
+
+    .cont-form-div {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .verigo-address {
+        width: 50%;
+    }
+
+    #de-form {
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: 340px;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    #what-verigo {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .become-a-de-col h2 {
+        width: 110%;
+    }
+
+    #faq-de {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .h2p-bg-img {
+        width: 25%;
+        top: 36px;
+    }
+
+    #white-space2 {
+        background-color: #E5E5E5;
+        padding-bottom: 550px;
+    }
+
+    .de-form-div, .otp-div {
+        width: 64% !important;
+    }
+
+    .ww-div {
+        margin-top: 45px;
+        margin-left: -3px;
+    }
+
+    img.phone-what-is {
+        width: 82%;
+    }
+
+    .footer-links:nth-child(3),
+    .footer-links:nth-child(4) {
+        padding-top: 30px;
+    }
+
+    .footer-right-bg {
+        top: 57px;
+        width: 14%;
+    }
+
+    .login-nav-btn, .login-nav-btn:hover {
+        width: 18%;
+    }
+
+    #track--sec {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+}
+
+@media (max-width: 890px) {
+
+    #how-it-works {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+
+    #features-section {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+
+    .partner-icon {
+        width: 83%;
+    }
+
+    #about-us-sec {
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+
+    #mission {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+
+    img.bus-img {
+        width: 87%;
+    }
+
+    #the-team {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .login-div {
+        width: 57%;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .lam-bg {
+        width: 25%;
+        top: -75px;
+    }
+
+    .git-bg {
+        right: -5px;
+        top: -20px;
+        width: 20%;
+    }
+
+    .cont-us-bg {
+        width: 27%;
+        left: -22px;
+    }
+
+    #leave-a-message {
+        padding-bottom: 80px;
+    }
+
+    .get-started-btn,
+    .get-started-btn:hover {
+        width: 30%;
+    }
+
+    #de-form {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    #faq-de {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+}
+
+@media (max-width: 797px) {
+    .login-div {
+        width: 67%;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .h2p-card-div {
+        width: 100%;
+    }
+
+    .get-started-btn,
+    .get-started-btn:hover {
+        width: 50%;
+    }
+
+    img.appstore-btn-footer,
+    img.playstore-btn-footer {
+        width: 55%;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    #aiding-section,
+    #partner,
+    #need-help-section,
+    footer {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    #how-it-works,
+    #features-section {
+        padding-left: 170px;
+        padding-right: 170px;
+    }
+
+    .partner-icon {
+        width: 83%;
+    }
+
+    #about-us-sec {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    #mission {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    img.bus-img {
+        width: 89%;
+    }
+
+    #the-team {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .team-img-pad {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .about-p {
+        width: 100%;
+    }
+
+    .login-div {
+        border-radius: 30px;
+        width: 73%;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+    }
+
+    .wi-img-div {
+        width: 100%;
+    }
+
+    img.phone-what-is {
+        width: 60%;
+    }
+
+    .ww-div {
+        width: 100%;
+    }
+
+    .container-margin-remove1 {
+        margin: 0 0px;
+    }
+
+    .desktop-footer {
+        display: none;
+    }
+
+    .jdMobile {
+        display: block;
+    }
+
+    img.appstore-btn-footer,
+    img.playstore-btn-footer {
+        width: 30%;
+    }
+
+    img.playstore-btn-footer {
+        padding-top: 0;
+        margin-left: 16px;
+    }
+
+    .app-stores-btn-group {
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+
+    .social-ico-footer img {
+        margin-right: 19px;
+        width: 7%;
+    }
+
+    .input-style {
+        margin: 0;
+        width: 61%;
+    }
+
+    #track--sec {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+}
+
+@media (max-width: 710px) {
+
+    #how-it-works,
+    #features-section {
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    .need-h-h2 {
+        width: 90%;
+    }
+
+    .team-img-bg {
+        width: 26%;
+        top: 40px;
+        left: -9px;
+    }
+
+    .team-img-grid {
+        border-radius: 35px;
+        -webkit-border-radius: 35px;
+        -moz-border-radius: 35px;
+        -ms-border-radius: 35px;
+        -o-border-radius: 35px;
+    }
+
+    .login-div {
+        width: 80%;
+    }
+
+    #login-sec,
+    #pr-sec {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .lam-bg {
+        width: 30%;
+        top: -45px;
+    }
+
+    .cont-form-div {
+        padding-left: 30px;
+        padding-right: 30px;
+        border-radius: 30px;
+    }
+
+    .g-i-t-contents {
+        border-radius: 26px;
+    }
+
+    .verigo-address {
+        width: 65%;
+    }
+
+    .lam-textarea {
+        border-radius: 17px;
+    }
+
+    #cont-us h2 {
+        padding-bottom: 20px;
+    }
+
+    #de-form {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    #faq-de {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .purple-bg-div {
+        border-radius: 40px;
+        padding: 50px 30px;
+        position: relative;
+        -webkit-border-radius: 40px;
+        -moz-border-radius: 40px;
+        -ms-border-radius: 40px;
+        -o-border-radius: 40px;
+    }
+
+    .become-a-de-col h2 {
+        width: 100%;
+    }
+
+    img.partner-faq-bg {
+        bottom: 87px;
+        width: 24%;
+    }
+
+    .h2p-bg-img {
+        width: 33%;
+        top: 75px;
+    }
+
+    .wi-bg-img {
+        width: 23%;
+        right: -8px;
+        top: 41px;
+    }
+
+    .toggle-nav {
+        padding: 7px 8px;
+    }
+}
+
+@media (max-width: 650px) {
+    .login-nav-btn, .login-nav-btn:hover {
+        width: 25%;
+    }
+
+    #about-us-sec {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    #mission {
+        padding-left: 110px;
+        padding-right: 110px;
+    }
+
+    #the-team {
+        padding-left: 70px;
+        padding-right: 70px;
+        padding-bottom: 50px;
+    }
+
+    .team-img-pad {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #about-us-sec h2 {
+        font-size: 3.4rem;
+    }
+
+    .cont-form-div {
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 25px;
+    }
+
+    .g-i-t-contents {
+        border-radius: 24px;
+    }
+
+    #de-form {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    #faq-de {
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+    .de-form-div, .otp-div {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 66% !important;
+    }
+
+    .footer-right-bg {
+        top: 16px;
+        width: 19%;
+    }
+
+    img.appstore-btn-footer,
+    img.playstore-btn-footer {
+        width: 36%;
+    }
+
+    .input-style {
+        margin: 0;
+        width: 66%;
+    }
+
+    #track--sec {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+}
+
+@media (max-width: 606px) {
+
+    #aiding-section,
+    #partner,
+    #need-help-section,
+    footer {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    #how-it-works,
+    #features-section {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .need-h-h2 {
+        width: 90%;
+    }
+
+    img.appstore-btn {
+        width: 40%;
+    }
+
+    img.playstore-btn {
+        margin-left: 14px;
+        padding-left: 0;
+        width: 40%;
+    }
+
+    #mission {
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    #the-team {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .team-img-pad {
+        padding-right: 13px;
+        padding-left: 13px;
+    }
+
+    .vision-mission-img {
+        top: 85px;
+        width: 25%;
+        right: -13px;
+    }
+
+    .team-img-bg {
+        width: 28%;
+        top: 48px;
+        left: -10px;
+    }
+
+    .banner-about {
+        width: 151%;
+    }
+
+    .cont-us-bg {
+        width: 27%;
+        left: -22px;
+        top: 117px;
+    }
+
+    .verigo-address {
+        width: 85%;
+    }
+
+    .wi-h2 {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 575px) {
+    .div-mob {
+        padding: 10px 20px;
+    }
+
+    .team-img-bg {
+        width: 40%;
+        top: 55px;
+        left: -20px;
+    }
+
+    #about-us-sec {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    #mission {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    #the-team {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .team-img-pad {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .vision-mission-img {
+        top: 95px;
+        width: 30%;
+        right: -15px;
+    }
+
+    .team-img-bg {
+        width: 40%;
+        top: 55px;
+        left: -18px;
+    }
+
+    .banner-about {
+        display: none;
+    }
+
+    img.bus-img {
+        width: 100%;
+    }
+
+    img.wi-money-img {
+        width: 23%;
+    }
+
+    .wi-col-p {
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+    #faq-de {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .input-style {
+        margin: 0;
+        width: 76%;
+    }
+
+    img.phone-what-is {
+        width: 85%;
+    }
+}
+
+@media (max-width: 555px) {
+
+    #how-it-works,
+    #features-section {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .need-h-h2 {
+        width: 100%;
+    }
+
+    img.phone-aid {
+        width: 70%;
+    }
+
+    .team-img-grid {
+        border-radius: 24px;
+        -webkit-border-radius: 24px;
+        -moz-border-radius: 24px;
+        -ms-border-radius: 24px;
+        -o-border-radius: 24px;
+    }
+
+    .login-div {
+        width: 88%;
+    }
+
+    #login-sec,
+    #pr-sec {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .lam-bg {
+        width: 30%;
+        top: -45px;
+    }
+
+    .de-form-div,.otp-div {
+        left: 60px;
+        width: 71% !important;
+    }
+
+    .purple-bg-div {
+        border-radius: 30px;
+        padding: 50px 14px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+    }
+
+    #faq-de {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    img.appstore-btn-footer,
+    img.playstore-btn-footer {
+        width: 45%;
+    }
+
+    .footer-right-bg {
+        top: 23px;
+        width: 21%;
+    }
+
+    .input-style {
+        margin: 0;
+        width: 79%;
+    }
+
+    .aid-p {
+        padding-bottom: 20px;
+    }
+
+    #aiding-section,
+    #partner,
+    #need-help-section,
+    footer {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .login-nav-btn, .login-nav-btn:hover {
+        width: 36%;
+    }
+
+    .get-started-btn,
+    .get-started-btn:hover {
+        width: 57%;
+    }
+
+    #track--sec {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+}
+
+@media (max-width: 470px) {
+    .accordion-each {
+        padding: 4px 2px;
+    }
+
+    img.phone-aid {
+        width: 80%;
+    }
+
+    .partner-p {
+        width: 100%;
+    }
+
+    .partner-icon {
+        width: 100%;
+    }
+
+    #about-us-sec {
+        padding-left: 38px;
+        padding-right: 38px;
+    }
+
+    #mission {
+        padding-left: 43px;
+        padding-right: 43px;
+    }
+
+    #the-team {
+        padding-left: 38px;
+        padding-right: 38px;
+    }
+
+    .vision-mission-img {
+        top: 110px;
+        width: 50%;
+        right: -25px;
+    }
+
+    .team-img-bg {
+        width: 70%;
+        top: 69px;
+        left: -25px;
+    }
+
+    .login-div {
+        width: 95%;
+    }
+
+    #login-sec,
+    #pr-sec {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .lam-bg {
+        width: 40%;
+        top: -35px;
+    }
+
+    .cont-form-div {
+        padding-left: 10px;
+        padding-right: 10px;
+        border-radius: 18px;
+    }
+
+    .accordion-each {
+        font-size: 1.05rem;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .de-form-div, .otp-div {
+        left: 25px;
+        width: 90% !important;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+
+    .input-style {
+        width: 100%;
+    }
+
+    .social-ico-footer img {
+        width: 12%;
+    }
+
+    img.playstore-btn {
+        margin-left: 0;
+        width: 60%;
+    }
+
+    img.appstore-btn {
+        width: 60%;
+        margin-bottom: 11px;
+    }
+
+}
+
+@media (max-width: 440px) {
+    img.phone-aid {
+        width: 90%;
+    }
+
+    #about-us-sec {
+        padding-left: 38px;
+        padding-right: 38px;
+    }
+
+    #mission {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #the-team {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #login-sec,
+    #pr-sec {
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    .accordion-each {
+        font-size: 1rem;
+    }
+
+    .accordion__label {
+        padding: 14px 13px;
+        font-size: 1.09rem;
+    }
+
+    #track--sec {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .login-nav-btn, .login-nav-btn:hover {
+        width: 45%;
+    }
+
+    img.appstore-btn {
+        width: 65%;
+    }
+
+    img.playstore-btn {
+        width: 65%;
+    }
+
+    #how-it-works,
+    #features-section {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    img.phone-aid {
+        width: 90%;
+    }
+
+    #aiding-section,
+    #partner,
+    #need-help-section,
+    footer {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #about-us-sec {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #mission {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #the-team {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .team-img-grid {
+        padding-right: 30px;
+        padding-left: 30px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .login-div {
+        width: 100%;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    #login-sec,
+    #pr-sec {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .de-form-div, .otp-div {
+        left: 30px;
+        width: 85% !important;
+    }
+
+    img.appstore-btn-footer,
+    img.playstore-btn-footer {
+        width: 42%;
+    }
+
+    .social-ico-footer img {
+        margin-right: 16px;
+        width: 10%;
+    }
+
+    .purple-bg-div {
+        border-radius: 23px;
+        padding: 29px 8px;
+        -webkit-border-radius: 23px;
+        -moz-border-radius: 23px;
+        -ms-border-radius: 23px;
+        -o-border-radius: 23px;
+    }
+
+    .accordion__label {
+        padding: 9px 13px;
+        font-size: 0.9rem;
+    }
+
+    #track--sec {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+}
+
+@media (max-width: 340px) {
+
+    .aiding-h1 {
+        font-size: 3rem;
+    }
+
+    .features-p {
+        font-size: 1.25rem;
+    }
+
+    #how-it-works,
+    #features-section,
+    #aiding-section,
+    #partner,
+    #need-help-section,
+    footer {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    img.phone-aid {
+        width: 100%;
+    }
+
+    #about-us-sec {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #mission {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #the-team {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .team-img-grid {
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+    }
+
+    .login-div {
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+
+    #login-sec,
+    #pr-sec {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+
+    #cont-us,
+    #get-in-touch,
+    #leave-a-message {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+
+    #what-verigo {
+        padding-left: 13px;
+        padding-right: 13px;
+    }
+
+    .purple-bg-div {
+        padding: 50px 11px;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+    }
+
+    #faq-de {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    #how-to-p-verigo {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    #track--sec {
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+}

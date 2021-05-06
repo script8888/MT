@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'League Spartan Black';
+    src: url('./LeagueSpartan-Black.woff2') format('woff2-variations');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'League Spartan Extra Bold';
+    src: url('./LeagueSpartan-ExtraBold.woff2') format('woff2-variations');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'League Spartan Semi Bold';
+    src: url('./LeagueSpartan-SemiBold.woff2') format('woff2-variations');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'League Spartan Bold';
+    src: url('./LeagueSpartan-Bold.woff2') format('woff2-variations');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'League Spartan Medium';
+    src: url('./LeagueSpartan-Medium.woff2') format('woff2-variations');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'League Spartan Regular';
+    src: url('./LeagueSpartan-Regular.woff2') format('woff2-variations');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'League Spartan Light';
+    src: url('./LeagueSpartan-Light.woff2') format('woff2-variations');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'League Spartan ExtraLight';
+    src: url('./LeagueSpartan-ExtraLight.woff2') format('woff2-variations');
+    font-weight: 200;
+}
