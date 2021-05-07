@@ -71,9 +71,10 @@ const SettingsTable = () => {
       field: "carrier",
       editComponent: ({ value, onRowDataChange, rowData }) => {
         const tValue = carrierData.find(cd => cd.name === value);
+
         return (
           <Select
-            value={tValue.value}
+            value={tValue?.value || ""}
             onChange={event => {
               const value = carrierData.find(
                 cd => cd.value === event.target.value
@@ -96,21 +97,18 @@ const SettingsTable = () => {
     {
       title: "Weight",
       field: "parcel",
-      editComponent: ({ value, onChange, onRowDataChange, rowData }) => {
+      editComponent: ({ value, onRowDataChange, rowData }) => {
         const cd = carrierData.find(cd => cd.name === rowData.carrier);
         const tValue = cd?.sizes.find(size => size.name === value);
 
-        const defaultValue = cd.sizes[0];
-
         return (
           <Select
-            value={tValue?.value || defaultValue.value}
+            value={tValue?.value || ""}
             onChange={event => {
               const cd = carrierData.find(cd => cd.name === rowData.carrier);
               const parcel = cd?.sizes.find(
                 size => size.value === event.target.value
               );
-              onChange(event.target.value);
               onRowDataChange({
                 ...rowData,
                 parcel: parcel.name,
@@ -165,13 +163,26 @@ const SettingsTable = () => {
         data={tableData}
         options={{ search: false }}
         editable={{
-          onRowAdd: () => {
+          onRowAdd: newData => {
             return new Promise(resolve => resolve());
           },
-          onRowUpdate: () => {
-            return new Promise(resolve => resolve());
+          onRowUpdate: (newData, oldData) => {
+            // ignore. just for testing
+            return new Promise(resolve => {
+              setTableData(currentTableData => {
+                const newTableData = currentTableData.map(td => {
+                  if (td.tableData.id === oldData.tableData.id) {
+                    return { ...oldData, ...newData };
+                  } else {
+                    return td;
+                  }
+                });
+                return newTableData;
+              });
+              resolve();
+            });
           },
-          onRowDelete: () => {
+          onRowDelete: oldData => {
             return new Promise(resolve => resolve());
           },
         }}
